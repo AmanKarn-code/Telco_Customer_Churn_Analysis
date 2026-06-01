@@ -32,7 +32,8 @@ The refined dataset was integrated into Power BI using a structured reporting la
 * **Corporate Churn Rate:** 26.58% (1,869 Lost Accounts)
 * **Direct Financial Impact:** ₹139K in immediate revenue leakage
 
-*(Note: To view or interact with the dashboard live, please download the `Customer_Churn_Analysis.pbix` file or visit my interactive portfolio link).*
+<img width="1330" height="742" alt="Screenshot 2026-06-01 104455" src="https://github.com/user-attachments/assets/1f526980-0ab7-4674-bc19-1ab03347f851" />
+
 
 ---
 
